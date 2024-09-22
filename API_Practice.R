@@ -24,7 +24,6 @@ url_states <- "https://api.census.gov/data/2022/acs/acs1/pums?get=WGTP,PWGTP,GRP
 #     - year of survey (2022 default)
 #     - 
 
-# I would like to see what happens--I wrote this in RStudio.
 
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 # Census API Query Function
